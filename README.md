@@ -11,6 +11,11 @@ A collection of top AI Papers. Creating an AI Library for references to the newe
 |AI Papers| Link/Description |Publication Date|
 | ------- | ----------- | --------------------|
 |LLMs|
+|xAI Grok-1-314B-MoE|
+|Meta Llama 3-8 70B|
+|Apple OpenELM-1.1 3B|
+|Mistral AI Mistral-7B|
 
-
-
+Fundamental Papers
+LLMs
+LLM Leaderboard
