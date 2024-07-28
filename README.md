@@ -35,3 +35,5 @@ A collection of top AI Papers. Creating an AI Library for references to the newe
 - Transfer Learning
 - AI Agents
 - Explainable AI
+- Multimodal
+- Causal Inference
