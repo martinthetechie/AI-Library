@@ -21,4 +21,13 @@ A collection of top AI Papers. Creating an AI Library for references to the newe
 
 
 
+** NLP Foundational Guide  **
+** Computer Vision Foundational Guide **
+** Reinforcement Learning Foundational Guide **
+** Gen AI Foundational Guide ** 
 
+- Topical Papers: Recommender
+- Topical Papers: Anomoly Detection
+- Topical Papers: Transfer Learning
+- Topical Papers: AI Agents
+- Topical Papers: Explainable AI
