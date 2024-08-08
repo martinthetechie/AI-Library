@@ -22,6 +22,13 @@ A collection of top AI Papers. Creating an AI Library for references to the newe
 
 
 **NLP Foundational Guide**
+|AI Papers|Keywords |Publication |Publication Date|
+|Attention Is All You Need| Transformers Architecture |https://arxiv.org/abs/1706.03762| 02 Aug 2023|
+|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding| Bidirectional Contextual Understanding | https://arxiv.org/abs/1810.04805 | 24 May 2019|
+|Language Models are Few-Shot Learners| GPT-3 | https://arxiv.org/abs/2005.14165 | 28 May 2020|
+
+**Recommenders Foundational Guide**
+|AI Papers|Keywords |Publication |Publication Date|
 
 **Computer Vision Foundational Guide**
 
