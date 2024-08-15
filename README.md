@@ -22,17 +22,32 @@ A collection of top AI Papers. Creating an AI Library for references to the newe
 
 
 **NLP Foundational Guide**
-|AI Papers|Keywords |Publication |Publication Date|
-|Attention Is All You Need| Transformers Architecture |https://arxiv.org/abs/1706.03762| 02 Aug 2023|
-|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding| Bidirectional Contextual Understanding | https://arxiv.org/abs/1810.04805 | 24 May 2019|
-|Language Models are Few-Shot Learners| GPT-3 | https://arxiv.org/abs/2005.14165 | 28 May 2020|
+|AI Papers|Keywords |Publication |Publication Year|
+| ------- | ----------- | --------------------|-----------|
+|Attention Is All You Need| Transformers Architecture |https://arxiv.org/abs/1706.03762|2023|
+|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding| Bidirectional Contextual Understanding | https://arxiv.org/abs/1810.04805 |2019|
+|Language Models are Few-Shot Learners| GPT-3 | https://arxiv.org/abs/2005.14165 |2020|
+|ELMo: Deep Contextualized Word Representations| Contextualized Embeddings | https://arxiv.org/pdf/1802.05365 |2018|
+|Seq2Seq Models for Neural Machine Translation| Seq2Seq | https://arxiv.org/pdf/1802.05365 |2014|
+|Word2Vec: Efficient Estimation of Word Representations in Vector Space| Word2Vec | https://arxiv.org/pdf/1301.3781|2013|
+|A Neural Conversational Model| Conversational Agent|  https://arxiv.org/pdf/1506.05869 |2015|
+
+
 
 **Recommenders Foundational Guide**
-|AI Papers|Keywords |Publication |Publication Date|
+|AI Papers|Keywords |Publication |Publication Year|
+| ------- | ----------- | --------------------|-----------|
+
+
+
 
 **Computer Vision Foundational Guide**
 
+
+
 **Reinforcement Learning Foundational Guide**
+
+
 
 **Gen AI Foundational Guide** 
 
