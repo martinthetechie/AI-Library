@@ -37,7 +37,13 @@ A collection of top AI Papers. Creating an AI Library for references to the newe
 **Recommenders Foundational Guide**
 |AI Papers|Keywords |Publication |Publication Year|
 | ------- | ----------- | --------------------|-----------|
-
+|Using Collaborative Filtering to Weave an Information Tapestry| Collaborative Filtering | https://sci-hub.se/10.1145/138859.138867 |1992|
+|GroupLens: An Open Architecture for Collaborative Filtering of Netnews | Collaborative Filtering |http://ccs.mit.edu/papers/CCSWP165.html|1994|
+|Item-Based Collaborative Filtering Recommendation Algorithms| Collaborative Filtering | https://www.researchgate.net/publication/2369002_Item-based_Collaborative_Filtering_Recommendation_Algorithms |2001|
+|Matrix Factorization Techniques for Recommender Systems| Collaborative Filtering|  https://datajobs.com/data-science-repo/Recommender-Systems-%5bNetflix%5d.pdf |2009|
+|Content-Based Recommendation Systems| Content-Based Filtering|  https://www.researchgate.net/publication/236895069_Content-Based_Recommendation_Systems |2007|
+|Joint Representation Learning for Top-N Recommendation with Heterogeneous Information Sources| Hybrid |  https://www.researchgate.net/publication/320020679_Joint_Representation_Learning_for_Top-N_Recommendation_with_Heterogenous_Information_Sources |2017|
+|Combining Collaborative Filtering with Content-Based Approaches for Better Recommendations| Hybrid |  - |2015|
 
 
 
