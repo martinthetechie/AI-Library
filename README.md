@@ -8,6 +8,8 @@ A collection of top AI Papers. Creating an AI Library for references to the newe
 |The Llama 3 Herd of Models| Llama 2 | https://arxiv.org/pdf/2407.21783 | 23 Nov 2024|
 |Microsoft’s Phi-4 Technical Report| Phi-4| https://arxiv.org/abs/2412.08905| 12 Dec 2024|
 |O1 Replication Journey: A Strategic Progress Report|OO1|https://arxiv.org/pdf/2410.18982| 08 Oct 2024|
+|NVLM: Open Frontier-Class Multimodal NVLM|OO1|https://arxiv.org/abs/2409.11402| 22 Oct 2024|
+
 
 
 **Starter Papers**
