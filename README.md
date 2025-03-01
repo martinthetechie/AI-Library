@@ -60,6 +60,7 @@ A collection of top AI Papers. Creating an AI Library for references to the newe
 
 **Computer Vision Foundational Guide**
 
+Ian Goodfellow et al., "Generative Adversarial Networks" (GANs) (2014)
 
 
 **Reinforcement Learning Foundational Guide**
