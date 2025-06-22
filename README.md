@@ -77,3 +77,6 @@ Ian Goodfellow et al., "Generative Adversarial Networks" (GANs) (2014)
 - Explainable AI
 - Multimodal
 - Causal Inference
+
+Some Audio Files
+curl -L 'https://api.ngc.nvidia.com/v2/models/org/nvidia/team/nemo/titanet_large/v1/files?redirect=true&path=titanet-l.nemo' -o 'titanet-l.nemo'
